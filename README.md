@@ -1,0 +1,1 @@
+<strong>Text to be deleted</strong>
