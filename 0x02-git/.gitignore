@@ -1,2 +1,6 @@
+Y ou can ignore entire directories, just by including their paths and putting a / on the end:
 
-Never to push files
+1
+2
+node_modules/
+
