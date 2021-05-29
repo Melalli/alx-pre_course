@@ -4,4 +4,4 @@ You can ignore entire directories, just by including their paths and putting a /
 2
 node_modules/
 logs/
-
+~
