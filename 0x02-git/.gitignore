@@ -3,4 +3,5 @@ Y ou can ignore entire directories, just by including their paths and putting a 
 1
 2
 node_modules/
+logs/
 
