@@ -1,1 +1,1 @@
-<strong>Text to be deleted</strong>
+<strong>Updated file </strong>
